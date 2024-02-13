@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.0" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 395.577 362.801" enable-background="new 0 0 395.577 362.801" xml:space="preserve">
+<g>
+	<polygon fill="#797306" points="85.524,222.127 85.524,361.489 2.97,317.745 2.97,178.383 	"/>
+	<defs>
+		<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="85.522" y="46.703" width="306.907" height="314.774">
+			
+				<feColorMatrix  type="matrix" values="-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0" color-interpolation-filters="sRGB" result="source"/>
+			<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+			<feBlend  in="source" in2="back" mode="normal"/>
+		</filter>
+	</defs>
+	<mask maskUnits="userSpaceOnUse" x="85.522" y="46.703" width="306.907" height="314.774" id="SVGID_1_">
+		<g filter="url(#Adobe_OpacityMaskFilter)">
+			<g opacity="0.6">
+				<polygon fill="#BDBEC0" points="104.352,234.622 376.86,75.304 376.86,81.674 104.352,240.828 				"/>
+				<polygon fill="#BDBEC0" points="104.352,249.417 376.86,90.098 376.86,96.469 104.352,255.623 				"/>
+				<polygon fill="#BDBEC0" points="104.352,264.212 376.86,104.893 376.86,111.264 104.352,270.418 				"/>
+				<polygon fill="#BDBEC0" points="104.352,279.006 376.86,119.688 376.86,126.058 104.352,285.212 				"/>
+			</g>
+		</g>
+	</mask>
+	<polygon mask="url(#SVGID_1_)" fill="#A59908" points="85.522,222.143 85.522,361.477 392.429,186.037 392.429,46.703 	"/>
+	<polygon fill="#4B4800" points="392.454,46.687 309.901,2.955 2.97,178.383 85.524,222.127 	"/>
+	<g>
+		<g>
+			<polygon fill="#3D3E3E" points="85.522,312.814 85.522,361.477 392.429,186.037 392.429,134.196 			"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path fill="#5DC5F0" d="M247.59,240.946v8.381c0,1.17,0.843,1.639,1.92,1.077l28.28-16.341c0.515-0.281,0.983-0.843,1.311-1.405
+				c0.327-0.562,0.562-1.217,0.562-1.826l-0.047-8.381c0-1.217-0.843-1.686-1.873-1.077l-25.283,14.561l-2.997,1.732
+				C248.433,238.277,247.59,239.728,247.59,240.946z"/>
+		</g>
+	</g>
+	<polygon fill="#231F20" points="85.522,312.814 76.23,307.443 76.23,356.565 85.522,361.477 	"/>
+</g>
+</svg>
