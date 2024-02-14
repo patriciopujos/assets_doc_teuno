@@ -1,1 +1,41 @@
-<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 382.168 600"><defs><style>.cls-1{opacity:0.6;filter:url(#luminosity-invert-noclip);}.cls-2{fill:#bdbec0;}.cls-3{fill:#797306;}.cls-4{mask:url(#mask);}.cls-5{fill:#a59908;}.cls-6{fill:#4b4800;}.cls-7{fill:#3d3e3e;}.cls-8{fill:#5dc5f0;}.cls-9{fill:#231f20;}</style><filter id="luminosity-invert-noclip" x="81.971" y="293.847" width="298.489" height="306.141" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB"><feColorMatrix values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0" result="invert"/><feFlood flood-color="#fff" result="bg"/><feBlend in="invert" in2="bg"/></filter><mask id="mask" x="81.971" y="293.847" width="298.489" height="306.141" maskUnits="userSpaceOnUse"><g class="cls-1"><polygon class="cls-2" points="100.284 476.612 365.318 321.664 365.318 327.86 100.284 482.648 100.284 476.612"/><polygon class="cls-2" points="100.284 491.001 365.318 336.052 365.318 342.249 100.284 497.038 100.284 491.001"/><polygon class="cls-2" points="100.284 505.39 365.318 350.441 365.318 356.638 100.284 511.427 100.284 505.39"/><polygon class="cls-2" points="100.284 519.779 365.318 364.83 365.318 371.026 100.284 525.815 100.284 519.779"/></g></mask></defs><polygon class="cls-3" points="81.973 464.46 81.973 600 1.684 557.455 1.684 421.916 81.973 464.46"/><g class="cls-4"><polygon class="cls-5" points="81.971 464.476 81.971 599.988 380.46 429.36 380.46 293.847 81.971 464.476"/></g><polygon class="cls-6" points="380.484 293.832 300.195 251.3 1.684 421.916 81.973 464.46 380.484 293.832"/><polygon class="cls-7" points="81.971 552.66 81.971 599.988 380.46 429.36 380.46 378.941 81.971 552.66"/><path class="cls-8" d="M239.594,482.763v8.151c0,1.138.82,1.594,1.867,1.047l27.5-15.892a4.151,4.151,0,0,0,1.821-3.142l-.045-8.151c0-1.184-.82-1.64-1.822-1.047L244.33,477.89l-2.914,1.685A4.08,4.08,0,0,0,239.594,482.763Z"/><polygon class="cls-9" points="81.971 552.66 72.934 547.436 72.934 595.211 81.971 599.988 81.971 552.66"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 380.532 600" style="enable-background:new 0 0 380.532 600;" xml:space="preserve">
+<g>
+	<polygon style="fill:#797306;" points="81.155,464.461 81.155,600 0.866,557.455 0.866,421.916 	"/>
+	<defs>
+		<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="81.153" y="293.847" width="298.489" height="306.141">
+			
+				<feColorMatrix  type="matrix" values="-1 0 0 0 1  0 -1 0 0 1  0 0 -1 0 1  0 0 0 1 0" color-interpolation-filters="sRGB" result="source"/>
+			<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+			<feBlend  in="source" in2="back" mode="normal"/>
+		</filter>
+	</defs>
+	<mask maskUnits="userSpaceOnUse" x="81.153" y="293.847" width="298.489" height="306.141" id="SVGID_1_">
+		<g style="filter:url(#Adobe_OpacityMaskFilter);">
+			<g style="opacity:0.6;">
+				<polygon style="fill:#BDBEC0;" points="99.466,476.612 364.5,321.664 364.5,327.86 99.466,482.648 				"/>
+				<polygon style="fill:#BDBEC0;" points="99.466,491.001 364.5,336.052 364.5,342.249 99.466,497.038 				"/>
+				<polygon style="fill:#BDBEC0;" points="99.466,505.39 364.5,350.441 364.5,356.638 99.466,511.427 				"/>
+				<polygon style="fill:#BDBEC0;" points="99.466,519.779 364.5,364.83 364.5,371.026 99.466,525.815 				"/>
+			</g>
+		</g>
+	</mask>
+	<polygon style="mask:url(#SVGID_1_);fill:#A59908;" points="81.153,464.476 81.153,599.988 379.643,429.36 379.643,293.847 	"/>
+	<polygon style="fill:#4B4800;" points="379.666,293.832 299.377,251.3 0.866,421.916 81.155,464.461 	"/>
+	<g>
+		<g>
+			<polygon style="fill:#3D3E3E;" points="81.153,552.66 81.153,599.988 379.643,429.36 379.643,378.941 			"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path style="fill:#5DC5F0;" d="M238.776,482.763v8.151c0,1.138,0.82,1.594,1.867,1.047l27.504-15.892
+				c0.501-0.273,0.956-0.82,1.275-1.366c0.318-0.547,0.546-1.184,0.546-1.776l-0.045-8.151c0-1.184-0.82-1.64-1.822-1.047
+				l-24.59,14.162l-2.914,1.685C239.596,480.167,238.776,481.579,238.776,482.763z"/>
+		</g>
+	</g>
+	<polygon style="fill:#231F20;" points="81.153,552.66 72.116,547.436 72.116,595.211 81.153,599.988 	"/>
+</g>
+</svg>
